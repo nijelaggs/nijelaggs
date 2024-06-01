@@ -7,7 +7,7 @@
 
   - [Microsoft Azure Fundamentals: AZ-900]()
   - [Intensive Customer Stratification](https://imgur.com/a/SwpWLWj)
-  - [Pricing Optimization]
+  - [Pricing Optimization](https://imgur.com/a/asi6x9a)
   - [Talent Incubator Program]
 
 <h2>🔭 I'm currently working on...</h2>
