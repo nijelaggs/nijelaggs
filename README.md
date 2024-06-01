@@ -5,7 +5,7 @@
     
 <h2>📃 Certifications:</h2>
 
-  - Microsoft Azure Fundamentals: AZ-900
+  - Microsoft Azure Fundamentals: AZ-900(https://imgur.com/a/SwpWLWj)
   - Intensive Customer Stratification & Pricing Optimization - Texas A&M
 
 <h2>🔭 I'm currently working on...</h2>
