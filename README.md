@@ -5,7 +5,7 @@
     
 <h2>📃 Certifications & Education:</h2>
 
-  - [Microsoft Azure Fundamentals: AZ-900]()
+  - [Microsoft Azure Fundamentals: AZ-900](https://drive.google.com/file/d/1A-KvJD00taRojEg2ehoy-dJEitWl3Xv8/view?usp=drive_link)
   - [Intensive Customer Stratification](https://imgur.com/a/SwpWLWj)
   - [Pricing Optimization](https://imgur.com/a/asi6x9a)
   - [Talent Incubator Program]
