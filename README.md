@@ -3,10 +3,12 @@
 
   - [Automated User Provisioning with Powershell](https://github.com/nijelaggs/Automated-User-Provisioning)
     
-<h2>📃 Certifications:</h2>
+<h2>📃 Certifications & Education:</h2>
 
-  - [Microsoft Azure Fundamentals: AZ-900](https://imgur.com/a/SwpWLWj)
-  - Intensive Customer Stratification & Pricing Optimization - Texas A&M
+  - [Microsoft Azure Fundamentals: AZ-900]()
+  - [Intensive Customer Stratification](https://imgur.com/a/SwpWLWj)
+  - [Pricing Optimization]
+  - [Talent Incubator Program]
 
 <h2>🔭 I'm currently working on...</h2>
   - Intune/Windows Autopilot configuration for my current employer
