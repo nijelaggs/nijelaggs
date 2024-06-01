@@ -6,7 +6,7 @@
 <h2>📃 Certifications:</h2>
 
   - Microsoft Azure Fundamentals: AZ-900
-  - Intensive Customer Stratification & Pricing Optimization:Texas A&M
+  - Intensive Customer Stratification & Pricing Optimization - Texas A&M
 
 <h2>🔭 I'm currently working on...</h2>
   - Intune/Windows Autopilot configuration for my current employer
