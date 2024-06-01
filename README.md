@@ -4,6 +4,7 @@
   - [Automated User Provisioning with Powershell](https://github.com/nijelaggs/Algorithms-Practice)
     
 <h2>📃 Certifications:</h2>
+
   - Microsoft Azure Fundamentals: AZ-900
   - Intensive Customer Stratification & Pricing Optimization:Texas A&M
 
