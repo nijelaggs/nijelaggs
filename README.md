@@ -2,7 +2,6 @@
 <h2>👨‍💻 System Administration Projects:</h2>
 
   - [Automated User Provisioning with Powershell](https://github.com/nijelaggs/Automated-User-Provisioning)
-  - [Data Management with Microsoft Fabric](https://github.com/nijelaggs/Data-Management-with-Microsoft-Fabric/tree/main)
 
 
 <h2>👮‍♂️ Cybersecurity Projects:</h2>
