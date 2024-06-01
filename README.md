@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1>Hi, I'm Nijel Williams! 
+<h2>👨‍💻 System Administration & Cybersecurity Projects:</h2>
 
-<!--
-**nijelaggs/nijelaggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - [Automated User Provisioning with Powershell](https://github.com/nijelaggs/Algorithms-Practice)
+    
+<h2>📃 Certifications:</h2>
+  - Microsoft Azure Fundamentals: AZ-900
+  - Intensive Customer Stratification & Pricing Optimization - Texas A&M
 
-Here are some ideas to get you started:
+<h2>🔭 I'm currently working on...</h2>
+  - Intune/Windows Autopilot configuration for my current employer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>🌱 I'm currently learning:</h2>
+
+  - Microsoft Fabric Challenge - Data Analytics
+  - CompTIA Network+ Certification
+  - CompTIA Security+ Certification
+
+
+ <h2>📫 How to reach me:</h2>
+
+  - nijelaggs@gmail.com
+  - Click the LinkedIn button below to check out my profile!
+  - Still working on my Tech Youtube Channel
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="NijelWilliams | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="NijelWilliams | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[youtube]: https://www.youtube.com/c/
+[linkedin]: https://linkedin.com/in/nijel-w-26228917a/ 
