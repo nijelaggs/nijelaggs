@@ -2,6 +2,12 @@
 <h2>👨‍💻 System Administration & Cybersecurity Projects:</h2>
 
   - [Automated User Provisioning with Powershell](https://github.com/nijelaggs/Automated-User-Provisioning)
+  - [Data Management with Microsoft Fabric]()
+
+
+<h2>👨‍💻 System Administration & Cybersecurity Projects:</h2>
+
+  - [Project Coming Soon]()
     
 <h2>📃 Certifications:</h2>
 
