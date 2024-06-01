@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nijel Williams! 
 <h2>👨‍💻 System Administration & Cybersecurity Projects:</h2>
 
-  - [Automated User Provisioning with Powershell](https://github.com/nijelaggs/Algorithms-Practice)
+  - [Automated User Provisioning with Powershell]([https://github.com/nijelaggs/Algorithms-Practice](https://github.com/nijelaggs/Automated-User-Provisioning/tree/main))
     
 <h2>📃 Certifications:</h2>
 
