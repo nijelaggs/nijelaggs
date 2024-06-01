@@ -8,7 +8,7 @@
   - [Microsoft Azure Fundamentals: AZ-900](https://drive.google.com/file/d/1A-KvJD00taRojEg2ehoy-dJEitWl3Xv8/view?usp=drive_link)
   - [Intensive Customer Stratification](https://imgur.com/a/SwpWLWj)
   - [Pricing Optimization](https://imgur.com/a/asi6x9a)
-  - [Talent Incubator Program]
+  - [Talent Incubator Program](https://drive.google.com/file/d/1shjJm5EgXK1SHMbWD5lx47akg_Al-upE/view?usp=drive_link)
 
 <h2>🔭 I'm currently working on...</h2>
   - Intune/Windows Autopilot configuration for my current employer
