@@ -1,11 +1,11 @@
 <h1>Hi, I'm Nijel Williams! 
-<h2>👨‍💻 System Administration & Cybersecurity Projects:</h2>
+<h2>👨‍💻 System Administration Projects:</h2>
 
   - [Automated User Provisioning with Powershell](https://github.com/nijelaggs/Automated-User-Provisioning)
   - [Data Management with Microsoft Fabric]()
 
 
-<h2>👨‍💻 System Administration & Cybersecurity Projects:</h2>
+<h2>👮‍♂️ Cybersecurity Projects:</h2>
 
   - [Project Coming Soon]()
     
