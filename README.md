@@ -6,6 +6,7 @@
 <h2>📃 Certifications:</h2>
 
   - [Microsoft Azure Fundamentals: AZ-900](https://drive.google.com/file/d/1A-KvJD00taRojEg2ehoy-dJEitWl3Xv8/view?usp=drive_link)
+  - [SQL Essential Training](https://drive.google.com/file/d/17Y8qeGyQnlPoIxPbNmQkmaImspZTrzrk/view?usp=sharing)
   - [Intensive Customer Stratification](https://drive.google.com/file/d/1hYo-9C1X_sAQgDMu_pkbu9ksi1EGgEem/view?usp=sharing)
   - [Pricing Optimization](https://drive.google.com/file/d/1a2bskGF0OkkmY2FFJZczA8evwyBfSeh-/view?usp=sharing)
   - [Talent Incubator Program](https://drive.google.com/file/d/1shjJm5EgXK1SHMbWD5lx47akg_Al-upE/view?usp=drive_link)
