@@ -22,7 +22,6 @@
 
 <h2>🌱 I'm currently learning:</h2>
 
-  - Microsoft Fabric Challenge - Data Analytics
   - CompTIA Network+ Certification
   - CompTIA Security+ Certification
 
