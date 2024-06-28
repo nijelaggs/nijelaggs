@@ -2,7 +2,7 @@
 <h2>👨‍💻 System Administration Projects/Scripts:</h2>
 
   - [Automated User Provisioning with Powershell](https://github.com/nijelaggs/Automated-User-Provisioning)
-  - [Fixing Error Code 0xcaa80000]((https://github.com/nijelaggs/Fixing-error-code-0xcaa800000)
+  - [Fixing Error Code 0xcaa80000](https://github.com/nijelaggs/Fixing-error-code-0xcaa800000)
 
 
 <h2>👮‍♂️ Cybersecurity Projects:</h2>
