@@ -5,12 +5,8 @@
 
 <p align="center">
   <a href="https://nijelaggs.github.io"><img src="https://img.shields.io/badge/Portfolio-nijelaggs.github.io-e11d48?style=for-the-badge&labelColor=0b0d12" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/nijelaggs"><img src="https://img.shields.io/badge/LinkedIn-nijelaggs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0d12" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/nijel-w-26228917a/"><img src="https://img.shields.io/badge/LinkedIn-Nijel%20Williams-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0d12" alt="LinkedIn"></a>
   <a href="mailto:nijelaggs@gmail.com"><img src="https://img.shields.io/badge/Email-nijelaggs@gmail.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0d12" alt="Email"></a>
-</p>
-
-<p align="center">
-  <a href="https://nijelaggs.github.io"><b>Visit my full portfolio</b></a>
 </p>
 
 ---
@@ -28,13 +24,10 @@ I automate things that should not be manual, break things that should not be bre
 | Project | Description |
 |---------|-------------|
 | [PenTest+ Master Drill](https://nijelaggs.github.io/pentest-drill.html) | Interactive CompTIA PenTest+ study tool with 535 terms, weighted review algorithm, and cloud auth |
-| [Automated User Provisioning](https://github.com/nijelaggs/Automated-User-Provisioning) | PowerShell onboarding automation for AD, Okta, M365, and Exchange Online |
 | [User Management](https://github.com/nijelaggs/User-Management) | PowerShell scripts for AD and cloud user provisioning and offboarding |
 | [Device Management](https://github.com/nijelaggs/Device-Management) | PowerShell scripts for endpoint and device management via Intune |
 | [Application Management](https://github.com/nijelaggs/Application-Management) | PowerShell scripts for application deployment and configuration |
 | [Room and Mail Management](https://github.com/nijelaggs/Room-and-Mail-Management) | PowerShell scripts for Exchange Online room mailboxes and mail flow rules |
-| [Granting Mailbox Access](https://github.com/nijelaggs/Granting-Mailbox-Access) | PowerShell tool for granting Exchange Online mailbox permissions |
-| [Fixing Microsoft Login Issues](https://github.com/nijelaggs/Fixing-error-code-0xcaa800000) | Troubleshooting guide for error code 0xcaa800000 |
 | [Portfolio Site](https://nijelaggs.github.io) | Bento-style showcase of IT infrastructure, security, and automation projects |
 
 ---
