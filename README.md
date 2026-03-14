@@ -9,6 +9,10 @@
   <a href="mailto:nijelaggs@gmail.com"><img src="https://img.shields.io/badge/Email-nijelaggs@gmail.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0d12" alt="Email"></a>
 </p>
 
+<p align="center">
+  <a href="https://nijelaggs.github.io"><b>Visit my full portfolio</b></a>
+</p>
+
 ---
 
 ### About Me
@@ -76,10 +80,6 @@ Currently studying for: CompTIA PenTest+ (PT0-003)
 
 ### Outside of Tech
 
-Building a 1992 Camaro RS. LS engine swap in progress. Targeting a sleeper build with supercharger whine, lopey idle, and subtle exhaust. Texas heat demands a serious cooling setup.
+Building a 1992 Camaro RS. LS engine swap in progress. Targeting a sleeper build with a Borla exhaust setup, deep and quiet at idle but opens up when you hit the gas. Texas heat demands a serious cooling setup.
 
 ---
-
-<p align="center">
-  <a href="https://nijelaggs.github.io"><b>Visit my full portfolio</b></a>
-</p>
